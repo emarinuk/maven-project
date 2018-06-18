@@ -1,4 +1,4 @@
 /**
- * This is a package named Greeter
+ * This is a package name.
  */
 package com.example;
